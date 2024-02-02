@@ -1,1 +1,1 @@
-# Professor_Comment_Analytics_INSY669_Final_Project
+# McDonald's_Store_Reviews_Analytics_INSY669_Final_Project
