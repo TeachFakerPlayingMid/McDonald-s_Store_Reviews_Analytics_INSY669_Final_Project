@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" modified="2024-02-15T04:00:41.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.4" etag="i1CZ_53AraGYmKIbOopm" type="device">
+  <diagram id="O9E2Rb3__huNg_Dx-nSt" name="第 1 页">
+    <mxGraphModel dx="1000" dy="1141" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P8UvckzTLR76rCQPjPlY-1" value="All Reviews " style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1363" y="-88" width="188" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-2" value="Sentiment on all reviews " style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="959" y="111.45" width="268" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-3" value="Store analysis using sentiment" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="977" y="213.45" width="231" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-4" value="top 5 - bottom 5" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="315.45" width="133" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-5" value="1. geographical related interpretations" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="717" y="388" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-6" value="2. cosine similarity + MDS" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="934" y="447.45" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-7" value="3. LDA by stores graph" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="447.45" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-8" value="4. different combinations of bigram &amp; map visualization." style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="393" width="204" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-9" value="LDA on all reviews (topic modeling)" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1643" y="93.2" width="269" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-10" value="topic 1: Food" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1718" y="195.2" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-11" value="Product analysis" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1712" y="297.2" width="130" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-12" value="1. most frequently mentioned unigram AND bigram. visualization for each." style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1551" y="404.45" width="220" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-13" value="2. what product is mentioned in reviews within topic 1" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1807" y="398.45" width="180" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-14" value="Sentiment analysis: Multiple Approaches" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.49811975279850745;entryY=0;rounded=1;fontStyle=1;fontSize=20;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-1" target="P8UvckzTLR76rCQPjPlY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1177" y="67.45" />
+            </Array>
+            <mxPoint x="1460" y="-56.996440715180185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-15" value="rating for test sentiment  accuracy" style="curved=1;startArrow=none;endArrow=block;exitX=0.49811975279850745;exitY=0.9852941176470589;entryX=0.4999830898268398;entryY=0;rounded=1;fontStyle=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-2" target="P8UvckzTLR76rCQPjPlY-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-16" value="Ranking" style="curved=1;startArrow=none;endArrow=block;exitX=0.4999830898268398;exitY=0.9852941176470589;entryX=0.4999706296992481;entryY=0;rounded=1;fontSize=18;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-3" target="P8UvckzTLR76rCQPjPlY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-17" value="Geographical interpretation" style="curved=1;startArrow=none;endArrow=block;exitX=0.000587406015037594;exitY=0.6650108647558535;entryX=0.49997351694915254;entryY=0;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-4" target="P8UvckzTLR76rCQPjPlY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-18" value="Cosine similarity analysis" style="curved=1;startArrow=none;endArrow=block;exitX=0.07359247152808457;exitY=0.9852941176470589;entryX=0.49959622896634615;entryY=0;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-4" target="P8UvckzTLR76rCQPjPlY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-19" value="LDA graph" style="curved=1;startArrow=none;endArrow=block;exitX=0.9263487878704116;exitY=0.9852941176470589;entryX=0.4980580357142857;entryY=0;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-4" target="P8UvckzTLR76rCQPjPlY-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-20" value="Bigram visualization" style="curved=1;startArrow=none;endArrow=block;exitX=0.9993538533834586;exitY=0.6835561497326206;entryX=0.49964908392434987;entryY=0;rounded=1;fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-4" target="P8UvckzTLR76rCQPjPlY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1389" y="383.45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-22" value="Topic analysis" style="curved=1;startArrow=none;endArrow=block;exitX=0.4990488499070632;exitY=0.9852941176470589;entryX=0.4960637019230769;entryY=0;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-9" target="P8UvckzTLR76rCQPjPlY-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-23" value="Product analysis" style="curved=1;startArrow=none;endArrow=block;exitX=0.4960637019230769;exitY=0.9852941176470589;entryX=0.5018780048076923;entryY=0;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-10" target="P8UvckzTLR76rCQPjPlY-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-24" value="Frequent terms analysis" style="curved=1;startArrow=none;endArrow=block;exitX=0.00025540865384615386;exitY=0.8619860657483601;entryX=0.4998227654264973;entryY=0;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-11" target="P8UvckzTLR76rCQPjPlY-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-25" value="Product mentions" style="curved=1;startArrow=none;endArrow=block;exitX=1.0035006009615384;exitY=0.8619860657483601;entryX=0.49898762224938875;entryY=0;rounded=1;fontStyle=1;fontSize=16;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-11" target="P8UvckzTLR76rCQPjPlY-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-27" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="P8UvckzTLR76rCQPjPlY-1" target="P8UvckzTLR76rCQPjPlY-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="400" as="sourcePoint" />
+            <mxPoint x="1420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8UvckzTLR76rCQPjPlY-28" value="LDA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;fontStyle=1;fontSize=20;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="P8UvckzTLR76rCQPjPlY-27">
+          <mxGeometry x="-0.1572" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
