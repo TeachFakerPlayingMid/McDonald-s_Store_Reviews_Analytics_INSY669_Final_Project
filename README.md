@@ -4,7 +4,7 @@
 This project utilizes a comprehensive text analytics approach to derive insights from over 33,000 anonymized customer reviews of McDonald's outlets across the United States. The objective is to understand customer preferences and experiences to enhance service quality and product offerings at McDonald's, thereby boosting customer satisfaction and business value.
 
 ### Dataset
-The dataset includes reviews from McDonald's customers and is sourced from Kaggle. It contains details such as customer ratings and textual feedback. The reviews span multiple states and stores, providing a diverse basis for analysis. (https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)
+The dataset includes reviews from McDonald's customers and is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews). It contains details such as customer ratings and textual feedback. The reviews span multiple states and stores, providing a diverse basis for analysis. 
 
 ### Tools and Methods Used
 - Python for data preprocessing and analysis.
